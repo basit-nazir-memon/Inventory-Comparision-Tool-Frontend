@@ -1,4 +1,4 @@
-const BACKEND_URL = "http://localhost:5000";
+const BACKEND_URL = "https://inventory-comparision-tool.onrender.com";
 
 const handleSubmit = async () => {
     const button = document.getElementById('compareButton');
